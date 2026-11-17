@@ -1,4 +1,4 @@
-# HighPerformanceMLSystems
+# TensorFlux
 
 Distributed VGG16 training with DDP, FSDP, model parallelism, and pipeline
 parallelism, plus GPT-2 inference benchmarks for batching and KV caching.
